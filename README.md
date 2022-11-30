@@ -1,1 +1,1 @@
-# OSS_Class
+# Repository for OSS class
